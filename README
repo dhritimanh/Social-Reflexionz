@@ -1,0 +1,13 @@
+Hello Guys , This facebook application is created as a result of the facebook hackathon contest 2012 by KRDS . 
+
+The Idea was to use the Facebook Framework to bring friends together for a common cause of disscussing against Corruption and taking actions 
+against it by the way of filing petions to govt. officials and also taking part in online elections .
+
+To test the app :
+
+1. Install wamp
+2. enable php curl extension
+3. make a folder in www of wamp and access the folder from browser after wamp is restarted (ie after changing php curl setting)
+4. if folder is fb2 ---- > http://localcost/fb2
+5. But before all that you have register an app in facebook developers. Instructions are given there. 
+
